@@ -1,5 +1,14 @@
-# Título del documento
+# Encabezado de nivel 1
 
-##Subtítulo del documento
+## Encabezado de nivel 2
 
-### Otro subtítulo del documento
+### Encabezado de nivel 3
+
+####Encabezado de nivel 6
+
+
+Este es el texto del repositorio...   
+**Texto en negrita**   
+*Texto en itálica*   
+
+[Este es um enlace al sitio web de la UCR](https://www.ucr.ac.cr/)
